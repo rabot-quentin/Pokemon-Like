@@ -1,0 +1,6084 @@
+fileFormatVersion: 2
+guid: 90a6ee7576dd3cc4e8f166c445542499
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1979754856578367239
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_0
+  - first:
+      213: 4401889281719717919
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_1
+  - first:
+      213: 7927272733826587998
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_2
+  - first:
+      213: -880145547176565297
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_3
+  - first:
+      213: -5430382819383049953
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_4
+  - first:
+      213: 8062373110085460617
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_5
+  - first:
+      213: 4722594973833897017
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_6
+  - first:
+      213: -6887148568495074335
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_7
+  - first:
+      213: -6120748667993796775
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_8
+  - first:
+      213: -2001434708378981451
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_9
+  - first:
+      213: -6063545719697256817
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_10
+  - first:
+      213: -5577118066066068583
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_11
+  - first:
+      213: 5130357907940523627
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_12
+  - first:
+      213: 2728043869472824922
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_13
+  - first:
+      213: 9133760222979818050
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_14
+  - first:
+      213: -7242297518300063264
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_15
+  - first:
+      213: -5434071720815251411
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_16
+  - first:
+      213: 7782212117708589088
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_17
+  - first:
+      213: 8109198617346178983
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_18
+  - first:
+      213: 2307487887346141555
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_19
+  - first:
+      213: 3385610793450369515
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_20
+  - first:
+      213: 7854070850227976511
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_21
+  - first:
+      213: 1454799760866009873
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_22
+  - first:
+      213: 3059984093307612502
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_23
+  - first:
+      213: 6846477704565579211
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_24
+  - first:
+      213: 211835248380368956
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_25
+  - first:
+      213: 8959613465517864746
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_26
+  - first:
+      213: 8275839573905875610
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_27
+  - first:
+      213: -2230331266092117725
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_28
+  - first:
+      213: 4744784585348234467
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_29
+  - first:
+      213: 644893417447763736
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_30
+  - first:
+      213: 916854403093850681
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_31
+  - first:
+      213: 3962907454856004612
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_32
+  - first:
+      213: -8778824782246856733
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_33
+  - first:
+      213: -2947153188924596803
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_34
+  - first:
+      213: -6900258810109777606
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_35
+  - first:
+      213: -2128995497161334483
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_36
+  - first:
+      213: -9050943169453006772
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_37
+  - first:
+      213: -5724462386510231807
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_38
+  - first:
+      213: 7603802305449212979
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_39
+  - first:
+      213: 1421642939983741823
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_40
+  - first:
+      213: -3077900930517596124
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_41
+  - first:
+      213: -4464592173403822614
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_42
+  - first:
+      213: 2907330022189721214
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_43
+  - first:
+      213: -4743478291692628567
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_44
+  - first:
+      213: 1563356598703501524
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_45
+  - first:
+      213: 5674765034044525263
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_46
+  - first:
+      213: -4410399161993094991
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_47
+  - first:
+      213: -8141045625236928159
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_48
+  - first:
+      213: 3695107778837865987
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_49
+  - first:
+      213: 8311370407507485544
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_50
+  - first:
+      213: 5320684911597152779
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_51
+  - first:
+      213: -9081269027041212178
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_52
+  - first:
+      213: 6745606287624265714
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_53
+  - first:
+      213: -7345746819767041251
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_54
+  - first:
+      213: 5175283673168049422
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_55
+  - first:
+      213: -6271595410275947120
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_56
+  - first:
+      213: 5459133163508034544
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_57
+  - first:
+      213: 6029598852321766789
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_58
+  - first:
+      213: -936069383608321262
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_59
+  - first:
+      213: 5124379488344092479
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_60
+  - first:
+      213: -1015043420115666040
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_61
+  - first:
+      213: 351717062764411589
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_62
+  - first:
+      213: -6068464774722860
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_63
+  - first:
+      213: 6059883327615236541
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_64
+  - first:
+      213: -3815097220039942799
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_65
+  - first:
+      213: -7607969033387300415
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_66
+  - first:
+      213: -8496688558979223438
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_67
+  - first:
+      213: -1698124204220056475
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_68
+  - first:
+      213: -889900754262473910
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_69
+  - first:
+      213: 1845585906316217838
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_70
+  - first:
+      213: -4326919960682526831
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_71
+  - first:
+      213: -2028300241564290531
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_72
+  - first:
+      213: 3085487879385966023
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_73
+  - first:
+      213: 7048994883820572244
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_74
+  - first:
+      213: 4587123243927209649
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_75
+  - first:
+      213: 127122299236317547
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_76
+  - first:
+      213: 659384759063280070
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_77
+  - first:
+      213: 4105897822186336836
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_78
+  - first:
+      213: -1394518876677767384
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_79
+  - first:
+      213: -6307955900139815343
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_80
+  - first:
+      213: 158050183864160738
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_81
+  - first:
+      213: -7808347910055525673
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_82
+  - first:
+      213: 5352198403928768040
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_83
+  - first:
+      213: -7528075383888396280
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_84
+  - first:
+      213: -5132533791615328758
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_85
+  - first:
+      213: -1559937494875734810
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_86
+  - first:
+      213: 7439349924407089202
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_87
+  - first:
+      213: -2371611830857507739
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_88
+  - first:
+      213: 3464854469128677799
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_89
+  - first:
+      213: 6643780906184678547
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_90
+  - first:
+      213: 5065064818356561997
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_91
+  - first:
+      213: 3863117963593590148
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_92
+  - first:
+      213: -2737303559793814702
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_93
+  - first:
+      213: -2865072396341358498
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_94
+  - first:
+      213: -5242478918788254059
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_95
+  - first:
+      213: -1576855295830453880
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_96
+  - first:
+      213: -2987789794312616622
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_97
+  - first:
+      213: -3786329583529112646
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_98
+  - first:
+      213: 2059182158142801421
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_99
+  - first:
+      213: 1407099845971292708
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_100
+  - first:
+      213: -6260069363796904156
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_101
+  - first:
+      213: 6323145823185599539
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_102
+  - first:
+      213: -2749411470126944041
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_103
+  - first:
+      213: -2551802565651773007
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_104
+  - first:
+      213: -2896500477335907021
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_105
+  - first:
+      213: 7499731454110458141
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_106
+  - first:
+      213: -7854066714554955052
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_107
+  - first:
+      213: -5058206755743343903
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_108
+  - first:
+      213: 3719353655825512394
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_109
+  - first:
+      213: -2136863842564197481
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_110
+  - first:
+      213: 4824946970430212677
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_111
+  - first:
+      213: -2708315497125745257
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_112
+  - first:
+      213: 7609205744693165322
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_113
+  - first:
+      213: 4514457859104627028
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_114
+  - first:
+      213: 2907094525353543575
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_115
+  - first:
+      213: 2249423554712185672
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_116
+  - first:
+      213: -2179843924115536407
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_117
+  - first:
+      213: -7066365627975388885
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_118
+  - first:
+      213: -4650430564083084625
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_119
+  - first:
+      213: -7157571086634748274
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_120
+  - first:
+      213: -2886744986651146904
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_121
+  - first:
+      213: -2790793580454198305
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_122
+  - first:
+      213: -4070875021919291214
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_123
+  - first:
+      213: 7371842106663989415
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_124
+  - first:
+      213: 8574272475196834308
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_125
+  - first:
+      213: -8273420309283175056
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_126
+  - first:
+      213: -9131828149957060151
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_127
+  - first:
+      213: 4016266724323725791
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_128
+  - first:
+      213: 1785770718196433524
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_129
+  - first:
+      213: -1719956351951804744
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_130
+  - first:
+      213: -5822962062678013754
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_131
+  - first:
+      213: 6475653231109511428
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_132
+  - first:
+      213: 3226745740103747842
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_133
+  - first:
+      213: -694652802978307078
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_134
+  - first:
+      213: -7468125149143036631
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_135
+  - first:
+      213: 3409807504151700272
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_136
+  - first:
+      213: -142752690796209932
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_137
+  - first:
+      213: -3971691388568207751
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_138
+  - first:
+      213: -2109919018345112573
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_139
+  - first:
+      213: 5440443359616905449
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_140
+  - first:
+      213: 7873291025464654277
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_141
+  - first:
+      213: 5882462125415504730
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_142
+  - first:
+      213: 5422213798308016129
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_143
+  - first:
+      213: 5082127090489676781
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_144
+  - first:
+      213: 3507596065083084168
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_145
+  - first:
+      213: 707446358027182203
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_146
+  - first:
+      213: -925784086686129792
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_147
+  - first:
+      213: 2255432851105497486
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_148
+  - first:
+      213: -149333494533183358
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_149
+  - first:
+      213: 8945504034042892506
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_150
+  - first:
+      213: 2737100713241543250
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_151
+  - first:
+      213: -6263220323671409512
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_152
+  - first:
+      213: 3618429479361661623
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_153
+  - first:
+      213: 7796332284942758851
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_154
+  - first:
+      213: -6905565598183339641
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_155
+  - first:
+      213: -4750650624641776777
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_156
+  - first:
+      213: 5273508134070374973
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_157
+  - first:
+      213: 8846744293557073952
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_158
+  - first:
+      213: -8835047021560750371
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_159
+  - first:
+      213: -7002067315358498841
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_160
+  - first:
+      213: -5065871492995058998
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_161
+  - first:
+      213: 4243958779779399205
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_162
+  - first:
+      213: -3651722031556817725
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_163
+  - first:
+      213: -7553332719720093385
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_164
+  - first:
+      213: 6930238212524305217
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_165
+  - first:
+      213: -3442129478404824560
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_166
+  - first:
+      213: -6182596108250323629
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_167
+  - first:
+      213: -7918910183167710260
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_168
+  - first:
+      213: 1014157298167993619
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_169
+  - first:
+      213: -3795839015548952034
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_170
+  - first:
+      213: 6675910993602328195
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_171
+  - first:
+      213: 7319365614787352374
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_172
+  - first:
+      213: -8325925720337391720
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_173
+  - first:
+      213: 7649809282298635433
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_174
+  - first:
+      213: -4402989083422582319
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_175
+  - first:
+      213: 4488067394917306946
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_176
+  - first:
+      213: 1370123277418008684
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_177
+  - first:
+      213: 798576013642657051
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_178
+  - first:
+      213: -7012645368854000094
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_179
+  - first:
+      213: -3919750590392643734
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_180
+  - first:
+      213: 7967344371289749678
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_181
+  - first:
+      213: 3316464015279206280
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_182
+  - first:
+      213: 6198293011201993932
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_183
+  - first:
+      213: -1109122737351692523
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_184
+  - first:
+      213: 733719091650565591
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_185
+  - first:
+      213: 8525910766911365401
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_186
+  - first:
+      213: 7319207109543116558
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_187
+  - first:
+      213: -5121502538830907217
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_188
+  - first:
+      213: -8368837247515647798
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_189
+  - first:
+      213: -6881845396277652784
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_190
+  - first:
+      213: -3220120607662713038
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_191
+  - first:
+      213: -7078304816153626149
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_192
+  - first:
+      213: -1462918777698518537
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_193
+  - first:
+      213: -8406487474672590953
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_194
+  - first:
+      213: -1564576636797772315
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_195
+  - first:
+      213: 4297050178362717876
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_196
+  - first:
+      213: 6161209559815929109
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_197
+  - first:
+      213: 2539696601771299534
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_198
+  - first:
+      213: 916785569693206098
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_199
+  - first:
+      213: -6102095054876322372
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_200
+  - first:
+      213: -2938872993865557956
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_201
+  - first:
+      213: 4474930862048165293
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_202
+  - first:
+      213: -2084859823664859310
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_203
+  - first:
+      213: 528526837741974678
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_204
+  - first:
+      213: -3526957790288995671
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_205
+  - first:
+      213: 1858770309384592764
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_206
+  - first:
+      213: -1030251730516617520
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_207
+  - first:
+      213: 6458865929811484049
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_208
+  - first:
+      213: -2746763417047084515
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_209
+  - first:
+      213: -3187029605381622743
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_210
+  - first:
+      213: 5721371896411520439
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_211
+  - first:
+      213: -4325556798571104112
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_212
+  - first:
+      213: 6916023929408578924
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_213
+  - first:
+      213: -8356071183791237757
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_214
+  - first:
+      213: 5312362072948646511
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_215
+  - first:
+      213: 3970910291154950634
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_216
+  - first:
+      213: 2429381036387870814
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_217
+  - first:
+      213: 6918076869255262678
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_218
+  - first:
+      213: 8948279383146011399
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_219
+  - first:
+      213: -780587485858956104
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_220
+  - first:
+      213: -7945952777315796900
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_221
+  - first:
+      213: -2310091401675857291
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_222
+  - first:
+      213: 2689578657134661770
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_223
+  - first:
+      213: -4795596922314891438
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_224
+  - first:
+      213: -7773371135892690235
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_225
+  - first:
+      213: 8156916891592529787
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_226
+  - first:
+      213: 4325826483429918370
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_227
+  - first:
+      213: 2684560188570833574
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_228
+  - first:
+      213: 932616436430080145
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_229
+  - first:
+      213: 5687733347461096622
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_230
+  - first:
+      213: -4212668320188002094
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_231
+  - first:
+      213: 2381232248861237800
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_232
+  - first:
+      213: -6984877341584841602
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_233
+  - first:
+      213: 5366282435031282868
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_234
+  - first:
+      213: 669211103271124871
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_235
+  - first:
+      213: 3742905111017917602
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_236
+  - first:
+      213: 5294314467034905108
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_237
+  - first:
+      213: -3403904238915231915
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_238
+  - first:
+      213: -968781981303697374
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_239
+  - first:
+      213: -863625120862272106
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_240
+  - first:
+      213: -2693217704356439709
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_241
+  - first:
+      213: 598570843792555986
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_242
+  - first:
+      213: -694753006640915045
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_243
+  - first:
+      213: -3183985248926664804
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_244
+  - first:
+      213: -1465599314143980417
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_245
+  - first:
+      213: 1459692624788365822
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_246
+  - first:
+      213: -3858459241177646491
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_247
+  - first:
+      213: -5655417014409101898
+    second: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 708
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ca47727f7684e0800000000000000
+      internalID: -1979754856578367239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 708
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d081caf6a61d30800000000000000
+      internalID: 4401889281719717919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 708
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9f590d84530e60800000000000000
+      internalID: 7927272733826587998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 711
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc526edb94819c3f0800000000000000
+      internalID: -880145547176565297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 711
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110a40e89763a4b0800000000000000
+      internalID: -5430382819383049953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 711
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9822e4990ad43ef60800000000000000
+      internalID: 8062373110085460617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 711
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342a697b170a8140800000000000000
+      internalID: 4722594973833897017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 708
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d28bdddeeb60a0800000000000000
+      internalID: -6887148568495074335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 708
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc8ccf38bbe0ba0800000000000000
+      internalID: -6120748667993796775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbeeed9cb97934e0800000000000000
+      internalID: -2001434708378981451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eca124b45f9dba0800000000000000
+      internalID: -6063545719697256817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 708
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99be7b1faa81a92b0800000000000000
+      internalID: -5577118066066068583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 708
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3961e551b23740800000000000000
+      internalID: 5130357907940523627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 708
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1c9b0275fbd520800000000000000
+      internalID: 2728043869472824922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 708
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2420e42b782a1ce70800000000000000
+      internalID: 9133760222979818050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 718
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9180847c03e7b90800000000000000
+      internalID: -7242297518300063264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_16
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 720
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bfc49f8c4694b0800000000000000
+      internalID: -5434071720815251411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 726
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c2ca60b8fffb60800000000000000
+      internalID: 7782212117708589088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff1089d29a98070800000000000000
+      internalID: 8109198617346178983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37988c80208d50020800000000000000
+      internalID: 2307487887346141555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17653341b1cfe20800000000000000
+      internalID: 3385610793450369515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b69c53d34ffc60800000000000000
+      internalID: 7854070850227976511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113edb5bcac703410800000000000000
+      internalID: 1454799760866009873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d22f3025f377a20800000000000000
+      internalID: 3059984093307612502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5347b233930f50800000000000000
+      internalID: 6846477704565579211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385e9a390790f200800000000000000
+      internalID: 211835248380368956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27bff01af0f65c70800000000000000
+      internalID: 8959613465517864746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a7c4ce30b9d270800000000000000
+      internalID: 8275839573905875610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d121c7854c01e0800000000000000
+      internalID: -2230331266092117725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3e61017cd8d140800000000000000
+      internalID: 4744784585348234467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f26f8752f13f800800000000000000
+      internalID: 644893417447763736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a692fc83259bc00800000000000000
+      internalID: 916854403093850681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404807475531ff630800000000000000
+      internalID: 3962907454856004612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b7cc6f595b2680800000000000000
+      internalID: -8778824782246856733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5d731acb9917d0800000000000000
+      internalID: -2947153188924596803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a52ddb2b5d30a0800000000000000
+      internalID: -6900258810109777606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_36
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ea4f00e94472e0800000000000000
+      internalID: -2128995497161334483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40618e2427946280800000000000000
+      internalID: -9050943169453006772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_38
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10709f9f9cf9e80b0800000000000000
+      internalID: -5724462386510231807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_39
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cb89ef8e1268960800000000000000
+      internalID: 7603802305449212979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f734c23c8b0bab310800000000000000
+      internalID: 1421642939983741823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_41
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42887ae39691945d0800000000000000
+      internalID: -3077900930517596124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_42
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5a64d92159a02c0800000000000000
+      internalID: -4464592173403822614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7662716049e85820800000000000000
+      internalID: 2907330022189721214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_44
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a552ef20a7cb2eb0800000000000000
+      internalID: -4743478291692628567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03cf22b8822b510800000000000000
+      internalID: 1563356598703501524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_46
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca08067bb0d0ce40800000000000000
+      internalID: 5674765034044525263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_47
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 703
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b898b7545d1bc2c0800000000000000
+      internalID: -4410399161993094991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_48
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 646
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169418f0322350f80800000000000000
+      internalID: -8141045625236928159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_49
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 646
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e96482f8a74330800000000000000
+      internalID: 3695107778837865987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_50
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 646
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636d20a95be75370800000000000000
+      internalID: 8311370407507485544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_51
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 646
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6785acbed6d940800000000000000
+      internalID: 5320684911597152779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 645
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8837d3fe9d8f180800000000000000
+      internalID: -9081269027041212178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 647
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5c78cd253d9d50800000000000000
+      internalID: 6745606287624265714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 646
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1384d5df2aae0a90800000000000000
+      internalID: -7345746819767041251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 646
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057f07b41d42d740800000000000000
+      internalID: 5175283673168049422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_56
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 646
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d2883e331d6f8a0800000000000000
+      internalID: -6271595410275947120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_57
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 646
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb637040bcb2cb40800000000000000
+      internalID: 5459133163508034544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_58
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 646
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dedb2c5307da350800000000000000
+      internalID: 6029598852321766789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_59
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 646
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b38e8ead96203f0800000000000000
+      internalID: -936069383608321262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_60
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 649
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f2c099ef37d1740800000000000000
+      internalID: 5124379488344092479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_61
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 647
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b78682367d9e1f0800000000000000
+      internalID: -1015043420115666040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_62
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 648
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca348b1ecc81e400800000000000000
+      internalID: 351717062764411589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_63
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 647
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da45c073c07aeff0800000000000000
+      internalID: -6068464774722860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db971d2a7c7091450800000000000000
+      internalID: 6059883327615236541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_65
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d50f7aa4d0e0bc0800000000000000
+      internalID: -3815097220039942799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c927ce09701b6690800000000000000
+      internalID: -7607969033387300415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270fae2e5c2b51a80800000000000000
+      internalID: -8496688558979223438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c78f6880d0f68e0800000000000000
+      internalID: -1698124204220056475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_69
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4345d89aff66a3f0800000000000000
+      internalID: -889900754262473910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_70
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed027c7a96dc9910800000000000000
+      internalID: 1845585906316217838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_71
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19788f38831b3f3c0800000000000000
+      internalID: -4326919960682526831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_72
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b8bb3da70ad3e0800000000000000
+      internalID: -2028300241564290531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_73
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e291f0ead1da20800000000000000
+      internalID: 3085487879385966023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_74
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ecba9ef7f03d160800000000000000
+      internalID: 7048994883820572244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_75
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60837694cb8af30800000000000000
+      internalID: 4587123243927209649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_76
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f201ce01a3c100800000000000000
+      internalID: 127122299236317547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f54ed1fa962900800000000000000
+      internalID: 659384759063280070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_78
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4427777b0541bf830800000000000000
+      internalID: 4105897822186336836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_79
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f7b0b587ca5ace0800000000000000
+      internalID: -1394518876677767384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_80
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3651a783a578a0800000000000000
+      internalID: -6307955900139815343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_81
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e198e90ec1813200800000000000000
+      internalID: 158050183864160738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_82
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20a7a32fc23a390800000000000000
+      internalID: -7808347910055525673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_83
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e36995714d64a40800000000000000
+      internalID: 5352198403928768040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_84
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80048f4e257e68790800000000000000
+      internalID: -7528075383888396280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_85
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5419b5b395c8b0800000000000000
+      internalID: -5132533791615328758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_86
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7e120d1df95ae0800000000000000
+      internalID: -1559937494875734810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_87
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381d144751ed3760800000000000000
+      internalID: 7439349924407089202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_88
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdf9cea97561fd0800000000000000
+      internalID: -2371611830857507739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_89
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e6d638c2a51030800000000000000
+      internalID: 3464854469128677799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_90
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c19aea883733c50800000000000000
+      internalID: 6643780906184678547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_91
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 641
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a87ecd99ba4640800000000000000
+      internalID: 5065064818356561997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 559
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852d69f15d8c9530800000000000000
+      internalID: 3863117963593590148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 559
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d31c4ae4230ad0800000000000000
+      internalID: -2737303559793814702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_94
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 559
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50db48d5d73d38d0800000000000000
+      internalID: -2865072396341358498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 559
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f62ff239fe37b0800000000000000
+      internalID: -5242478918788254059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 559
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88115d58672ed1ae0800000000000000
+      internalID: -1576855295830453880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 559
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558576130d3986d0800000000000000
+      internalID: -2987789794312616622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_98
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 559
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc13bfd41447bc0800000000000000
+      internalID: -3786329583529112646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_99
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 559
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068ce7434fa39c10800000000000000
+      internalID: 2059182158142801421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 562
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42230a2dad5078310800000000000000
+      internalID: 1407099845971292708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_101
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 561
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4277495b414cf19a0800000000000000
+      internalID: -6260069363796904156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_102
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 562
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cf8fdef9350c750800000000000000
+      internalID: 6323145823185599539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_103
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 562
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f2bdb5d028d9d0800000000000000
+      internalID: -2749411470126944041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_104
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 559
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b94569261d269cd0800000000000000
+      internalID: -2551802565651773007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_105
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 559
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d4a489209dc7d0800000000000000
+      internalID: -2896500477335907021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_106
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 553
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11e311b506641860800000000000000
+      internalID: 7499731454110458141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8bbc8fefb00390800000000000000
+      internalID: -7854066714554955052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eadf6351c3adc9b0800000000000000
+      internalID: -5058206755743343903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b789a17ccd9330800000000000000
+      internalID: 3719353655825512394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_110
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b59228a55852e0800000000000000
+      internalID: -2136863842564197481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_111
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a0798b4b7a5f240800000000000000
+      internalID: 4824946970430212677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_112
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d622697612a6ad0800000000000000
+      internalID: -2708315497125745257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_113
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3c4b3f44599960800000000000000
+      internalID: 7609205744693165322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_114
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d665118396ae30800000000000000
+      internalID: 4514457859104627028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_115
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7974e208113185820800000000000000
+      internalID: 2907094525353543575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_116
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b24081ece873f10800000000000000
+      internalID: 2249423554712185672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_117
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 554
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5cc451083afb1e0800000000000000
+      internalID: -2179843924115536407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213f7b86e93fed90800000000000000
+      internalID: -7066365627975388885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_119
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2553f7a0a567fb0800000000000000
+      internalID: -4650430564083084625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_120
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e867786e4033bac90800000000000000
+      internalID: -7157571086634748274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_121
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c481bab830f7d0800000000000000
+      internalID: -2886744986651146904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_122
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3469b560c1549d0800000000000000
+      internalID: -2790793580454198305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_123
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87d796cb85187c0800000000000000
+      internalID: -4070875021919291214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_124
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a079fb965b0e4660800000000000000
+      internalID: 7371842106663989415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_125
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024483436fedf670800000000000000
+      internalID: 8574272475196834308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758cab2018ee2d80800000000000000
+      internalID: -8273420309283175056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_127
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c995eb1eaa354180800000000000000
+      internalID: -9131828149957060151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_128
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd199828e45acb730800000000000000
+      internalID: 4016266724323725791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_129
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472846cb10558c810800000000000000
+      internalID: 1785770718196433524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_130
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b66cb48fcc7128e0800000000000000
+      internalID: -1719956351951804744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_131
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84089fadea03fa0800000000000000
+      internalID: -5822962062678013754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_132
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 554
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40994e0ed442ed950800000000000000
+      internalID: 6475653231109511428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 417
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20983639724b7cc20800000000000000
+      internalID: 3226745740103747842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_134
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 416
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3af34c4f81c56f0800000000000000
+      internalID: -694652802978307078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0b23aeb3eb5890800000000000000
+      internalID: -7468125149143036631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_136
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 421
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336c6debd1125f20800000000000000
+      internalID: 3409807504151700272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_137
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 420
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f85c5e1f27d40ef0800000000000000
+      internalID: -142752690796209932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_138
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 421
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef9ea99b7b1e8c0800000000000000
+      internalID: -3971691388568207751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_139
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 420
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd2b6e4df08b2e0800000000000000
+      internalID: -2109919018345112573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_140
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 419
+        width: 50
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0399e2966508b40800000000000000
+      internalID: 5440443359616905449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_141
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 416
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97712297c834d60800000000000000
+      internalID: 7873291025464654277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_142
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 414
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b941ee224b2a150800000000000000
+      internalID: 5882462125415504730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_143
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 414
+        width: 110
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100fe50b8b29f3b40800000000000000
+      internalID: 5422213798308016129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_144
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d60c99a7578640800000000000000
+      internalID: 5082127090489676781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_145
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dc5d2890c7da030800000000000000
+      internalID: 3507596065083084168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_146
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 413
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70aad3e6ba51d900800000000000000
+      internalID: 707446358027182203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_147
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812d563744f623f0800000000000000
+      internalID: -925784086686129792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 413
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c3e07a38ec4f10800000000000000
+      internalID: 2255432851105497486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_149
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28828495af57dedf0800000000000000
+      internalID: -149333494533183358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_150
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad053fd0680d42c70800000000000000
+      internalID: 8945504034042892506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_151
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520b3fc8922cf520800000000000000
+      internalID: 2737100713241543250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_152
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfe81bc429419a0800000000000000
+      internalID: -6263220323671409512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_153
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4722b07e373230800000000000000
+      internalID: 3618429479361661623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_154
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33cea08e2223c60800000000000000
+      internalID: 7796332284942758851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_155
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789cf1bfca08a20a0800000000000000
+      internalID: -6905565598183339641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_156
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7734d3a4d6c421eb0800000000000000
+      internalID: -4750650624641776777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_157
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32d56b25b34f2940800000000000000
+      internalID: 5273508134070374973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_158
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028fe2c1013f5ca70800000000000000
+      internalID: 8846744293557073952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_159
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9ff14b8b936580800000000000000
+      internalID: -8835047021560750371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_160
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effeae00e8a3de90800000000000000
+      internalID: -7002067315358498841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_161
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 414
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2704e97b862b9b0800000000000000
+      internalID: -5065871492995058998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb626560295ea30800000000000000
+      internalID: 4243958779779399205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 139
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8692f82a725dc0800000000000000
+      internalID: -3651722031556817725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 324
+        width: 139
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739afb229eb2d2790800000000000000
+      internalID: -7553332719720093385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_165
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 325
+        width: 139
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6952bfe62d2060800000000000000
+      internalID: 6930238212524305217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_166
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 323
+        width: 128
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a7c00a791b30d0800000000000000
+      internalID: -3442129478404824560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_167
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 330
+        width: 126
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e60aa891033aa0800000000000000
+      internalID: -6182596108250323629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_168
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 320
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba01405216a1290800000000000000
+      internalID: -7918910183167710260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_169
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3155caf70b2031e00800000000000000
+      internalID: 1014157298167993619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12e2adc688725bc0800000000000000
+      internalID: -3795839015548952034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_171
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 320
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386bacd9da995ac50800000000000000
+      internalID: 6675910993602328195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_172
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 320
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637db9a3f3c939560800000000000000
+      internalID: 7319365614787352374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_173
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 320
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f50058bae547c80800000000000000
+      internalID: -8325925720337391720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a465e60305992a60800000000000000
+      internalID: 7649809282298635433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_175
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99ca4b1c075e2c0800000000000000
+      internalID: -4402989083422582319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 211
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421f025481d84e30800000000000000
+      internalID: 4488067394917306946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_177
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 214
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609ef09cd7a30310800000000000000
+      internalID: 1370123277418008684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_178
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 213
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d615347ac151b00800000000000000
+      internalID: 798576013642657051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_179
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 214
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4bad01341eae90800000000000000
+      internalID: -7012645368854000094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_180
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 213
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc4831b9f3a99c0800000000000000
+      internalID: -3919750590392643734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_181
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 211
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8feed2e71b19e60800000000000000
+      internalID: 7967344371289749678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_182
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 239
+        width: 199
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f25155372760e20800000000000000
+      internalID: 3316464015279206280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_183
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc2b7a57a2c40650800000000000000
+      internalID: 6198293011201993932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe7db2fba9b90f0800000000000000
+      internalID: -1109122737351692523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_185
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d511ce50a1be2a00800000000000000
+      internalID: 733719091650565591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_186
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9112e689bae125670800000000000000
+      internalID: 8525910766911365401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_187
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb4d9561c039560800000000000000
+      internalID: 7319207109543116558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f8b86394cce8b0800000000000000
+      internalID: -5121502538830907217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_189
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0a5c60ddaebdb80800000000000000
+      internalID: -8368837247515647798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_190
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d296bbd216ce70a0800000000000000
+      internalID: -6881845396277652784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_191
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23759564e55df43d0800000000000000
+      internalID: -3220120607662713038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_192
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f93da54fc4cd90800000000000000
+      internalID: -7078304816153626149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f7006f1ba2bbe0800000000000000
+      internalID: -1462918777698518537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_194
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9e576e28265b80800000000000000
+      internalID: -8406487474672590953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_195
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1bcb96d1894ae0800000000000000
+      internalID: -1564576636797772315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_196
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b657de5032ab30800000000000000
+      internalID: 4297050178362717876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_197
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db19f7373018550800000000000000
+      internalID: 6161209559815929109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_198
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 206
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec258d97a90de3320800000000000000
+      internalID: 2539696601771299534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25684c84e9319bc00800000000000000
+      internalID: 916785569693206098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_200
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5dd6cb0e0015ba0800000000000000
+      internalID: -6102095054876322372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_201
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3897a835960737d0800000000000000
+      internalID: -2938872993865557956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_202
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 98
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad30dae8e52a1e30800000000000000
+      internalID: 4474930862048165293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_203
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f8f359071113e0800000000000000
+      internalID: -2084859823664859310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_204
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fed1db54b55700800000000000000
+      internalID: 528526837741974678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_205
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 94
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa170c839abd0fc0800000000000000
+      internalID: -3526957790288995671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_206
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 94
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d59e98fbdabc910800000000000000
+      internalID: 1858770309384592764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_207
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 98
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65355728fc3b1f0800000000000000
+      internalID: -1030251730516617520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_208
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5946b75082a950800000000000000
+      internalID: 6458865929811484049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_209
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ded4a93981e9d0800000000000000
+      internalID: -2746763417047084515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_210
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 98
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243392a57565c3d0800000000000000
+      internalID: -3187029605381622743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_211
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdf2893d65666f40800000000000000
+      internalID: 5721371896411520439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_212
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b46d620988f3c0800000000000000
+      internalID: -4325556798571104112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_213
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 98
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ef720f17aaff50800000000000000
+      internalID: 6916023929408578924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_214
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385de3cd785490c80800000000000000
+      internalID: -8356071183791237757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_215
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ac54c82d49b940800000000000000
+      internalID: 5312362072948646511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_216
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 98
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9db3bfed18b1730800000000000000
+      internalID: 3970910291154950634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_217
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5828f16e25e6b120800000000000000
+      internalID: 2429381036387870814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_218
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17ec05242f10060800000000000000
+      internalID: 6918076869255262678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_219
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 98
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b9e5f50bcae2c70800000000000000
+      internalID: 8948279383146011399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_220
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf24d31dbca25f0800000000000000
+      internalID: -780587485858956104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_221
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58301a6c0e4ab190800000000000000
+      internalID: -7945952777315796900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_222
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 98
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722d6c0c18e0ffd0800000000000000
+      internalID: -2310091401675857291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_223
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80dbf5e98d435520800000000000000
+      internalID: 2689578657134661770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_224
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 34
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fd67fd10e927db0800000000000000
+      internalID: -4795596922314891438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_225
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 98
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca67d113207f1490800000000000000
+      internalID: -7773371135892690235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_226
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7791c912b0333170800000000000000
+      internalID: 8156916891592529787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_227
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 95
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a641d8744c680c30800000000000000
+      internalID: 4325826483429918370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_228
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29be1a449714520800000000000000
+      internalID: 2684560188570833574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_229
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980b1d25b151fc00800000000000000
+      internalID: 932616436430080145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_230
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ef883853eeee40800000000000000
+      internalID: 5687733347461096622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_231
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d017a28b789985c0800000000000000
+      internalID: -4212668320188002094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_232
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82224113d16db0120800000000000000
+      internalID: 2381232248861237800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_233
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e742927b01bb01f90800000000000000
+      internalID: -6984877341584841602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_234
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b43570617dd87a40800000000000000
+      internalID: 5366282435031282868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_235
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ff83ae3f3894900800000000000000
+      internalID: 669211103271124871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_236
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac87322e5871f330800000000000000
+      internalID: 3742905111017917602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_237
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab3d015fe297940800000000000000
+      internalID: 5294314467034905108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_238
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd20e1127e2c0d0800000000000000
+      internalID: -3403904238915231915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_239
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220189bbbe13e82f0800000000000000
+      internalID: -968781981303697374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_240
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69586eb3789c304f0800000000000000
+      internalID: -863625120862272106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_241
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3699a0564c4cf9ad0800000000000000
+      internalID: -2693217704356439709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_242
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3925d20d8e4800800000000000000
+      internalID: 598570843792555986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_243
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d988842ddbb56f0800000000000000
+      internalID: -694753006640915045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_244
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9774ab194630d3d0800000000000000
+      internalID: -3183985248926664804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_245
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745469503529abe0800000000000000
+      internalID: -1465599314143980417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_246
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1a4cd55bed14410800000000000000
+      internalID: 1459692624788365822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_247
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a784d53cff37ac0800000000000000
+      internalID: -3858459241177646491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-computer-graphics-animation-database-scratc-sprite-5acaba821e6288.7107692015232354581245_248
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdf177603ce381b0800000000000000
+      internalID: -5655417014409101898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

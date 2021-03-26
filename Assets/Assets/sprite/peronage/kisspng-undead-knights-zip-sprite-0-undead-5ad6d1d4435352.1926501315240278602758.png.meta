@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: 18edec86536ea41439c0b6bb43a8c033
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2934943803445515535
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_0
+  - first:
+      213: 3931985676594685370
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_1
+  - first:
+      213: -3641929960639266370
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_2
+  - first:
+      213: -242874539360536481
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_3
+  - first:
+      213: 7236336591019933457
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_4
+  - first:
+      213: -172645792665982699
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_5
+  - first:
+      213: 4623131476680321997
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_6
+  - first:
+      213: 5334190211882571804
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_7
+  - first:
+      213: -8184156630255624537
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_8
+  - first:
+      213: 5775288517894823209
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_9
+  - first:
+      213: -1785116631075038119
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_10
+  - first:
+      213: 8340986029611495431
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_11
+  - first:
+      213: -257690430155886194
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_12
+  - first:
+      213: -3396537308824038256
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_13
+  - first:
+      213: 3867217504203513697
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_14
+  - first:
+      213: -6775187532008375527
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_15
+  - first:
+      213: 6163445541951056482
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_16
+  - first:
+      213: 8840799624405802630
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_17
+  - first:
+      213: -3916373426650093099
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_18
+  - first:
+      213: 5181384155136915011
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_19
+  - first:
+      213: 4574077900032718702
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_20
+  - first:
+      213: -5687013975872997749
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_21
+  - first:
+      213: -8385723922351386509
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_22
+  - first:
+      213: -3184403131130716037
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_23
+  - first:
+      213: 2515048531783143296
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_24
+  - first:
+      213: -645556432505733629
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_25
+  - first:
+      213: -1129749733793705816
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_26
+  - first:
+      213: 586353421103455889
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_27
+  - first:
+      213: 4507886028025354983
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_28
+  - first:
+      213: -579935612714564971
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_29
+  - first:
+      213: -7528811020855944144
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_30
+  - first:
+      213: 759243892993727661
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_31
+  - first:
+      213: 5760543467159733871
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_32
+  - first:
+      213: -9156181265798068646
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_33
+  - first:
+      213: -1584749532270125046
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_34
+  - first:
+      213: -1090053588561932646
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_35
+  - first:
+      213: 2517849129608922462
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_36
+  - first:
+      213: -6028066802483022349
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_37
+  - first:
+      213: 1324992710428184548
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_38
+  - first:
+      213: -1803073574358671319
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_39
+  - first:
+      213: -349491860091264100
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_40
+  - first:
+      213: 2802625071985083834
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_41
+  - first:
+      213: -2839297296963893534
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_42
+  - first:
+      213: 3972582737635153349
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_43
+  - first:
+      213: 2309161119008062075
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_44
+  - first:
+      213: -3915994314102478095
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_45
+  - first:
+      213: 4028653040783757118
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_46
+  - first:
+      213: -689232521735234574
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_47
+  - first:
+      213: 715005438252977532
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_48
+  - first:
+      213: -3933128110984319525
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_49
+  - first:
+      213: -5875678823245813902
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_50
+  - first:
+      213: -2617393301516542829
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_51
+  - first:
+      213: 455909937076692004
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_52
+  - first:
+      213: -9181029946871188117
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_53
+  - first:
+      213: 2274770041636384820
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_54
+  - first:
+      213: -251014263695059684
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_55
+  - first:
+      213: -5749437080958695204
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_56
+  - first:
+      213: -5821314529473318217
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_57
+  - first:
+      213: -4423213274051273800
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_58
+  - first:
+      213: -7161205872364884530
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_59
+  - first:
+      213: -907899660370176121
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_60
+  - first:
+      213: 38730225233920224
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_61
+  - first:
+      213: -2537092570295719552
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_62
+  - first:
+      213: 8700393453690863663
+    second: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 939
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059a18d6d30bb820800000000000000
+      internalID: 2934943803445515535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 940
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5a95be328319630800000000000000
+      internalID: 3931985676594685370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 940
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18e3f1ff3457dc0800000000000000
+      internalID: -3641929960639266370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 941
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58bd6ca4e221acf0800000000000000
+      internalID: -242874539360536481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 940
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f77ee2ac1ac6460800000000000000
+      internalID: 7236336591019933457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 940
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ad28f093aa9df0800000000000000
+      internalID: -172645792665982699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 945
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb25796599a82040800000000000000
+      internalID: 4623131476680321997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 930
+        width: 126
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1850a76cb9d60a40800000000000000
+      internalID: 5334190211882571804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 914
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae947308e80c6e80800000000000000
+      internalID: -8184156630255624537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_9
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 911
+        width: 164
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5388ee42f52050800000000000000
+      internalID: 5775288517894823209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 789
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c512ac1edf937e0800000000000000
+      internalID: -1785116631075038119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 790
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7003d7bf99221c370800000000000000
+      internalID: 8340986029611495431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 790
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817a884bef7c6cf0800000000000000
+      internalID: -257690430155886194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 876
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0949e2130531dd0d0800000000000000
+      internalID: -3396537308824038256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 882
+        width: 103
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f1937a4dd1ba530800000000000000
+      internalID: 3867217504203513697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 790
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b3cfb06d2b9f1a0800000000000000
+      internalID: -6775187532008375527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 791
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2578a015f88550800000000000000
+      internalID: 6163445541951056482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 790
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5d17fa64d0ba70800000000000000
+      internalID: 8840799624405802630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 637
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9edb84e1f36a9c0800000000000000
+      internalID: -3916373426650093099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 639
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346f5cbdf69f7e740800000000000000
+      internalID: 5181384155136915011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 641
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673a669d936a7f30800000000000000
+      internalID: 4574077900032718702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 640
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8678678beaa311b0800000000000000
+      internalID: -5687013975872997749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 640
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37010c7a58cef9b80800000000000000
+      internalID: -8385723922351386509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 639
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ef43593abec3d0800000000000000
+      internalID: -3184403131130716037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_24
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 642
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f4dc9705f37e220800000000000000
+      internalID: 2515048531783143296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 639
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef60e48d58a07f0800000000000000
+      internalID: -645556432505733629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_26
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 637
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a052205a925250f0800000000000000
+      internalID: -1129749733793705816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 604
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed4b17455232800800000000000000
+      internalID: 586353421103455889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 491
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead56c657a3f8e30800000000000000
+      internalID: 4507886028025354983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 491
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592cc8302a7a3f7f0800000000000000
+      internalID: -579935612714564971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 491
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd5d0144a448790800000000000000
+      internalID: -7528811020855944144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 492
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac96cb4c40698a00800000000000000
+      internalID: 759243892993727661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 495
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c04143cf81ff40800000000000000
+      internalID: 5760543467159733871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_33
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 495
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56050976a5bee080800000000000000
+      internalID: -9156181265798068646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_34
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 495
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a21f52b6d10ae0800000000000000
+      internalID: -1584749532270125046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_35
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 495
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e40ab590a5fd0f0800000000000000
+      internalID: -1090053588561932646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_36
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 568
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55cd58717231f220800000000000000
+      internalID: 2517849129608922462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 338
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bca36e21085ca0800000000000000
+      internalID: -6028066802483022349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 339
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efcd0b99d1536210800000000000000
+      internalID: 1324992710428184548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 342
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920257023223af6e0800000000000000
+      internalID: -1803073574358671319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 342
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ae53410b562bf0800000000000000
+      internalID: -349491860091264100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 342
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5464e67ace4e620800000000000000
+      internalID: 2802625071985083834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_42
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 339
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68db2d62ac898d0800000000000000
+      internalID: -2839297296963893534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_43
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 346
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c59795c3f2712730800000000000000
+      internalID: 3972582737635153349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_44
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 346
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a7e93adc9cb0020800000000000000
+      internalID: 2309161119008062075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_45
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae87d4be797a9c0800000000000000
+      internalID: -3915994314102478095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_46
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 293
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f863b8896a8e730800000000000000
+      internalID: 4028653040783757118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 173
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb13565caa5f66f0800000000000000
+      internalID: -689232521735234574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 170
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8a8768a53ce900800000000000000
+      internalID: 715005438252977532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_49
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 170
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2da852d8ba69c0800000000000000
+      internalID: -3933128110984319525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277e52ead35657ea0800000000000000
+      internalID: -5875678823245813902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_51
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 172
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9e99e8a62dabd0800000000000000
+      internalID: -2617393301516542829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_52
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 170
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e6091ca7b35600800000000000000
+      internalID: 455909937076692004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_53
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 175
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f48018ed669080800000000000000
+      internalID: -9181029946871188117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_54
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 180
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ff65fc4b919f10800000000000000
+      internalID: 2274770041636384820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_55
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 252
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1556ea6bd7348cf0800000000000000
+      internalID: -251014263695059684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88ffacf65e530b0800000000000000
+      internalID: -5749437080958695204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23ce03749863fa0800000000000000
+      internalID: -5821314529473318217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 18
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb916266f69d92c0800000000000000
+      internalID: -4423213274051273800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 18
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdef3663394e9c90800000000000000
+      internalID: -7161205872364884530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_60
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 40
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78710f3b11e7663f0800000000000000
+      internalID: -907899660370176121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_61
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 19
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e083254fe8998000800000000000000
+      internalID: 38730225233920224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 12
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ad39dfbf6accd0800000000000000
+      internalID: -2537092570295719552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-undead-knights-zip-sprite-0-undead-5ad6d1d4435352.1926501315240278602758_63
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 42
+        width: 100
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c06ddfb10eb870800000000000000
+      internalID: 8700393453690863663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

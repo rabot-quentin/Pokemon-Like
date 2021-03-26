@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: 023209654f8e3504481fbb45e4a61543
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8859515899830608632
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_0
+  - first:
+      213: -5886881024595643023
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_1
+  - first:
+      213: -8962257691745547956
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_2
+  - first:
+      213: 2697054767149519200
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_3
+  - first:
+      213: 5453520071571211655
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_4
+  - first:
+      213: 7766508387885451242
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_5
+  - first:
+      213: 302772993294762248
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_6
+  - first:
+      213: 738993833005538687
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_7
+  - first:
+      213: -5729598599203690555
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_8
+  - first:
+      213: 6809141650389936922
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_9
+  - first:
+      213: -5841129869737555905
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_10
+  - first:
+      213: 5837120337124685184
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_11
+  - first:
+      213: 1001218011900640589
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_12
+  - first:
+      213: 2005983333672794598
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_13
+  - first:
+      213: -4973920344697085693
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_14
+  - first:
+      213: -7666652915210519309
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_15
+  - first:
+      213: 6695787929405557371
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_16
+  - first:
+      213: 1701983702170987357
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_17
+  - first:
+      213: 1575878981029230617
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_18
+  - first:
+      213: -7029482697098098131
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_19
+  - first:
+      213: 4506000091976104354
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_20
+  - first:
+      213: 8644398408790424129
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_21
+  - first:
+      213: -186242611866700916
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_22
+  - first:
+      213: 352468915194091091
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_23
+  - first:
+      213: 6361976886185817682
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_24
+  - first:
+      213: 4319475533802047359
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_25
+  - first:
+      213: 7958297333527731809
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_26
+  - first:
+      213: 5167759158755745030
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_27
+  - first:
+      213: 6154875659816868383
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_28
+  - first:
+      213: -842346836851433222
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_29
+  - first:
+      213: -7213408052977095670
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_30
+  - first:
+      213: 7609708426639619573
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_31
+  - first:
+      213: 3684934624026287424
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_32
+  - first:
+      213: 343411817507533021
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_33
+  - first:
+      213: 4475532187101315110
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_34
+  - first:
+      213: 7548616310004100934
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_35
+  - first:
+      213: -7616392387432623705
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_36
+  - first:
+      213: -2547025320224034696
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_37
+  - first:
+      213: 2537063228943075798
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_38
+  - first:
+      213: 1318972606594587085
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_44
+  - first:
+      213: -4336802372466948300
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_50
+  - first:
+      213: 5849320414719204275
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_51
+  - first:
+      213: -8437503624966010751
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_53
+  - first:
+      213: 1529502965633593163
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_55
+  - first:
+      213: -601121976631063660
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_56
+  - first:
+      213: -7243085203462842298
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_57
+  - first:
+      213: -6360061341467563886
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_58
+  - first:
+      213: 502130622467670170
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_59
+  - first:
+      213: 8545643457134480283
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_60
+  - first:
+      213: 7215940448936741115
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_61
+  - first:
+      213: 1012028580549626590
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_62
+  - first:
+      213: -2633890034393128474
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_63
+  - first:
+      213: -5995201634877753613
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_64
+  - first:
+      213: -2010455577653490730
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_65
+  - first:
+      213: -2848736953020934006
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_66
+  - first:
+      213: 3410776682729153680
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_67
+  - first:
+      213: -653465611437017252
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_68
+  - first:
+      213: 4777003818791984205
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_69
+  - first:
+      213: 5437623771728413721
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_70
+  - first:
+      213: 1208890575297676206
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_71
+  - first:
+      213: -7685067321105368092
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_72
+  - first:
+      213: 999749756064180639
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_73
+  - first:
+      213: -1712091981668953784
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_74
+  - first:
+      213: -4520839810402827316
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_75
+  - first:
+      213: 2273783889155306459
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_76
+  - first:
+      213: 3777363046373506833
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_77
+  - first:
+      213: -6890734744530956271
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_78
+  - first:
+      213: 318813242300981041
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_79
+  - first:
+      213: -7926013458124880246
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_80
+  - first:
+      213: -2474915611801457232
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_81
+  - first:
+      213: -8288095110653085431
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_82
+  - first:
+      213: 8781973225675543782
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_83
+  - first:
+      213: -7331485742754244383
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_84
+  - first:
+      213: 6455264591228858183
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_85
+  - first:
+      213: -845366136752474809
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_86
+  - first:
+      213: 7152923213486214706
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_87
+  - first:
+      213: 652373442820747124
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_88
+  - first:
+      213: 9101144541485413458
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_89
+  - first:
+      213: -7029275294062933409
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_90
+  - first:
+      213: 8317047862390994429
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_91
+  - first:
+      213: 2893452134280268750
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_92
+  - first:
+      213: 8783615990532030878
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_93
+  - first:
+      213: 1029771019937413762
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_94
+  - first:
+      213: -3102836175344062117
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_95
+  - first:
+      213: -2315778664484904750
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_96
+  - first:
+      213: -636664297697609286
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_97
+  - first:
+      213: -2930417110663641970
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_98
+  - first:
+      213: 1865598801206656259
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_99
+  - first:
+      213: 8138386384791976243
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_100
+  - first:
+      213: -2287428149341600133
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_101
+  - first:
+      213: 8448625685322405619
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_102
+  - first:
+      213: 5833939693148831646
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_103
+  - first:
+      213: -9118998978710638025
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_104
+  - first:
+      213: 1885905986183356457
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_105
+  - first:
+      213: 4985980249605130807
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_106
+  - first:
+      213: 663002562113124691
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_107
+  - first:
+      213: -2539985698084203553
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_108
+  - first:
+      213: -842485888068378065
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_110
+  - first:
+      213: -4655104955000697624
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_111
+  - first:
+      213: -1246914452047488104
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_112
+  - first:
+      213: 460419716224348986
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_113
+  - first:
+      213: -1643826382244061034
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_114
+  - first:
+      213: 8287854535567650418
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_115
+  - first:
+      213: 8392326833084261258
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_116
+  - first:
+      213: 757148265232360167
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_117
+  - first:
+      213: -1925274144957463226
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_118
+  - first:
+      213: -3346220318987026633
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_119
+  - first:
+      213: 1466321728359292194
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_120
+  - first:
+      213: -8246355751835253044
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_121
+  - first:
+      213: 4764806067290358088
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_131
+  - first:
+      213: 3390736130723738353
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_132
+  - first:
+      213: 6631454858562260951
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_133
+  - first:
+      213: -3981303640653318224
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_134
+  - first:
+      213: -7389655812593243263
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_135
+  - first:
+      213: 7126310549671430612
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_136
+  - first:
+      213: 4550213927766908792
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_137
+  - first:
+      213: -8512842596096968531
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_138
+  - first:
+      213: -399920468717554436
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_139
+  - first:
+      213: -8063000344570881664
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_140
+  - first:
+      213: 3898309554927540155
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_141
+  - first:
+      213: -7965009023748865052
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_142
+  - first:
+      213: 4172752204444477226
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_143
+  - first:
+      213: -1004077291248177135
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_144
+  - first:
+      213: 8274285200653187234
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_145
+  - first:
+      213: -7384844338104128153
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_146
+  - first:
+      213: 3313742149438709374
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_147
+  - first:
+      213: 5753281072630172932
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_148
+  - first:
+      213: -8997296771300904525
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_149
+  - first:
+      213: 3613480963935675487
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_150
+  - first:
+      213: 2270190974283972995
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_151
+  - first:
+      213: -3432588920716767903
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_152
+  - first:
+      213: 734627135668556515
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_153
+  - first:
+      213: 4936984405203134762
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_154
+  - first:
+      213: 5932649170902081764
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_155
+  - first:
+      213: -9058661111608489097
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_156
+  - first:
+      213: 2118068986515820721
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_157
+  - first:
+      213: 5117526859553767399
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_158
+  - first:
+      213: -7890695849645538353
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_159
+  - first:
+      213: 4313971585209863457
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_160
+  - first:
+      213: -4838560004800040555
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_161
+  - first:
+      213: 6088533669142377539
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_162
+  - first:
+      213: -5096329132812059313
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_163
+  - first:
+      213: -1680292598036607526
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_164
+  - first:
+      213: 2251223975917281419
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_165
+  - first:
+      213: -3386320454796381162
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_166
+  - first:
+      213: 8182712803090624502
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_167
+  - first:
+      213: 8424576857672396619
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_168
+  - first:
+      213: -2719501174930561592
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_169
+  - first:
+      213: -8970269867806565356
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_170
+  - first:
+      213: -6144469617470288241
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_171
+  - first:
+      213: 6655845344650739229
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_172
+  - first:
+      213: -2062513799723477651
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_173
+  - first:
+      213: -2817485292466259709
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_174
+  - first:
+      213: 156502284260793273
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_175
+  - first:
+      213: -5175112086915769633
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_176
+  - first:
+      213: -8905334641167964028
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_177
+  - first:
+      213: 642848836868085665
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_178
+  - first:
+      213: 4663840005591266838
+    second: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1496
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ddba49a3dac0580800000000000000
+      internalID: -8859515899830608632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1496
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753dfde5e89d4ea0800000000000000
+      internalID: -5886881024595643023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1496
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498ef90d1aaf9380800000000000000
+      internalID: -8962257691745547956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1496
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06198b7650ddd6520800000000000000
+      internalID: 2697054767149519200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1496
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78507717c9bceab40800000000000000
+      internalID: 5453520071571211655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1496
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae70105ea3e28cb60800000000000000
+      internalID: 7766508387885451242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1496
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018ae8ee6aa33400800000000000000
+      internalID: 302772993294762248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1496
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ddf7bc9fe614a00800000000000000
+      internalID: 738993833005538687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1546
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c763e44e606c70b0800000000000000
+      internalID: -5729598599203690555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1546
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b2fc0314eee7e50800000000000000
+      internalID: 6809141650389936922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_10
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1480
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f388e53c45320fea0800000000000000
+      internalID: -5841129869737555905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1480
+        width: 172
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085768d250e910150800000000000000
+      internalID: 5837120337124685184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1480
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7f062a7a05ed00800000000000000
+      internalID: 1001218011900640589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_13
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1480
+        width: 167
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9bbecb63fa6db10800000000000000
+      internalID: 2005983333672794598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1480
+        width: 159
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ed39acc519fab0800000000000000
+      internalID: -4973920344697085693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_15
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1480
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf9a41bc39a9590800000000000000
+      internalID: -7666652915210519309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1283
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a019f55a73cec50800000000000000
+      internalID: 6695787929405557371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1279
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be76dd829ae9710800000000000000
+      internalID: 1701983702170987357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1286
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91870497595aed510800000000000000
+      internalID: 1575878981029230617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1294
+        width: 150
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a86b41bb2427e90800000000000000
+      internalID: -7029482697098098131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1305
+        width: 180
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9fc18b537888e30800000000000000
+      internalID: 4506000091976104354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_21
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1315
+        width: 195
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab7e48d8217f770800000000000000
+      internalID: 8644398408790424129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_22
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1311
+        width: 200
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f4adc4555a6df0800000000000000
+      internalID: -186242611866700916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_23
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1286
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d2846c9834e400800000000000000
+      internalID: 352468915194091091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_24
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1303
+        width: 189
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f95255484a4850800000000000000
+      internalID: 6361976886185817682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_25
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1289
+        width: 138
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770348cc1cd1fb30800000000000000
+      internalID: 4319475533802047359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_26
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1292
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16edbdd824d817e60800000000000000
+      internalID: 7958297333527731809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_27
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1285
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d586e239197b740800000000000000
+      internalID: 5167759158755745030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1070
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a151c7dc28a6550800000000000000
+      internalID: 6154875659816868383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1068
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ebcbc3026f44f0800000000000000
+      internalID: -842346836851433222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1072
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cab561893d4eb90800000000000000
+      internalID: -7213408052977095670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1073
+        width: 164
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b62efe7d1b9960800000000000000
+      internalID: 7609708426639619573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1073
+        width: 185
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ddf955484832330800000000000000
+      internalID: 3684934624026287424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1054
+        width: 204
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd035328a3b04c400800000000000000
+      internalID: 343411817507533021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1060
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204001dfc84c1e30800000000000000
+      internalID: 4475532187101315110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_35
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1061
+        width: 161
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa3872a8212c860800000000000000
+      internalID: 7548616310004100934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_36
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1062
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1d61d1a732d4690800000000000000
+      internalID: -7616392387432623705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1151
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870fe1a47f527acd0800000000000000
+      internalID: -2547025320224034696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_38
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1065
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98bd59095753320800000000000000
+      internalID: 2537063228943075798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_44
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1087
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99a84f89eed4210800000000000000
+      internalID: 1318972606594587085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_50
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1069
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4374908383590d3c0800000000000000
+      internalID: -4336802372466948300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_51
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1067
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb57c81de5fc2150800000000000000
+      internalID: 5849320414719204275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_53
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1069
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18884da2827f7ea80800000000000000
+      internalID: -8437503624966010751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 864
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2f75f7d2e93510800000000000000
+      internalID: 1529502965633593163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 861
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b89344fb268a7f0800000000000000
+      internalID: -601121976631063660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 866
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64895b902646b7b90800000000000000
+      internalID: -7243085203462842298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 866
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a12038e58cb7a0800000000000000
+      internalID: -6360061341467563886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_59
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 866
+        width: 210
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900807042de7f600800000000000000
+      internalID: 502130622467670170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_60
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 866
+        width: 234
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b44af8279389670800000000000000
+      internalID: 8545643457134480283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_61
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 981
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84f3b4b9b242460800000000000000
+      internalID: 7215940448936741115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_62
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 983
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda043ec1a27b0e00800000000000000
+      internalID: 1012028580549626590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_63
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 866
+        width: 177
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16e8af7fa827bd0800000000000000
+      internalID: -2633890034393128474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_64
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 890
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6354480e3cccca0800000000000000
+      internalID: -5995201634877753613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_65
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 866
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc241dd4d6914e0800000000000000
+      internalID: -2010455577653490730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_66
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 973
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8898a0a5d04778d0800000000000000
+      internalID: -2848736953020934006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_67
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 866
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a1466253855f20800000000000000
+      internalID: 3410776682729153680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_68
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 923
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57fc551d7c6ee6f0800000000000000
+      internalID: -653465611437017252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_69
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 923
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cd7cdd9a35b4240800000000000000
+      internalID: 4777003818791984205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_70
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 923
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148718b202567b40800000000000000
+      internalID: 5437623771728413721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_71
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 923
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38fe0c297d6c010800000000000000
+      internalID: 1208890575297676206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_72
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 960
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3d8a1df7295590800000000000000
+      internalID: -7685067321105368092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_73
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 923
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992d723b13dfdd00800000000000000
+      internalID: 999749756064180639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_74
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 931
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841d3d9e96d6d38e0800000000000000
+      internalID: -1712091981668953784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_75
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 932
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ce761520c241c0800000000000000
+      internalID: -4520839810402827316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_76
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 925
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bb11766a1e8f10800000000000000
+      internalID: 2273783889155306459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_77
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 919
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb7c66da3eb6430800000000000000
+      internalID: 3777363046373506833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_78
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 916
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105ace22413f50a0800000000000000
+      internalID: -6890734744530956271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_79
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 921
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5a0964f6ac6400800000000000000
+      internalID: 318813242300981041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_80
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 910
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86408fe0c4210290800000000000000
+      internalID: -7926013458124880246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_81
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 909
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd618d1d5557add0800000000000000
+      internalID: -2474915611801457232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_82
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 901
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909fed8b865cafc80800000000000000
+      internalID: -8288095110653085431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 901
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d16fae16dfd970800000000000000
+      internalID: 8781973225675543782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 665
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8da439f84514a90800000000000000
+      internalID: -7331485742754244383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_85
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 665
+        width: 104
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f6a5bb1f4b59950800000000000000
+      internalID: 6455264591228858183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 662
+        width: 148
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74579b14af7a444f0800000000000000
+      internalID: -845366136752474809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 658
+        width: 164
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ecd7dc3c9444360800000000000000
+      internalID: 7152923213486214706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 646
+        width: 186
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47faa389032bd0900800000000000000
+      internalID: 652373442820747124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_89
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 661
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25439b49db2cd4e70800000000000000
+      internalID: 9101144541485413458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_90
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 769
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a03fcdc5ff27e90800000000000000
+      internalID: -7029275294062933409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_91
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 769
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5bcb917f61c6370800000000000000
+      internalID: 8317047862390994429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_92
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 646
+        width: 178
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb0f5ec26b972820800000000000000
+      internalID: 2893452134280268750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_93
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 651
+        width: 143
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914a1fa43ca5e970800000000000000
+      internalID: 8783615990532030878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_94
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 756
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a7c53694b7a4e00800000000000000
+      internalID: 1029771019937413762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_95
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 715
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b26420f280f4d0800000000000000
+      internalID: -3102836175344062117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_96
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 647
+        width: 175
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e2fcf293bcdfd0800000000000000
+      internalID: -2315778664484904750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_97
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 669
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97f86c13d1a27f0800000000000000
+      internalID: -636664297697609286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_98
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 674
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84ca23f9211557d0800000000000000
+      internalID: -2930417110663641970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 454
+        width: 185
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d315fa930f3e910800000000000000
+      internalID: 1865598801206656259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 454
+        width: 207
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339b6664c4b51f070800000000000000
+      internalID: 8138386384791976243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_101
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c34da73c6140e0800000000000000
+      internalID: -2287428149341600133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_102
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 441
+        width: 203
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f612ed4c4c8f3570800000000000000
+      internalID: 8448625685322405619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_103
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 561
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fff2bcd3156f050800000000000000
+      internalID: 5833939693148831646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_104
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 569
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327dce4ebec27180800000000000000
+      internalID: -9118998978710638025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_105
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 576
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ed32a0851c2a10800000000000000
+      internalID: 1885905986183356457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_106
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 579
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac3d2ce92c13540800000000000000
+      internalID: 4985980249605130807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_107
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 550
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3593de74155733900800000000000000
+      internalID: 663002562113124691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_108
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 445
+        width: 103
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35e1b077820ccd0800000000000000
+      internalID: -2539985698084203553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_110
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 435
+        width: 202
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a7696c83ee44f0800000000000000
+      internalID: -842485888068378065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_111
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 443
+        width: 157
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc50d05beb56fb0800000000000000
+      internalID: -4655104955000697624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_112
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 557
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b986c89e112bee0800000000000000
+      internalID: -1246914452047488104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_113
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337321ea4db36600800000000000000
+      internalID: 460419716224348986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_114
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 443
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906ded5d94ff29e0800000000000000
+      internalID: -1643826382244061034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_115
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 557
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eae960acf540370800000000000000
+      internalID: 8287854535567650418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_116
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 566
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8367fc4ac8877470800000000000000
+      internalID: 8392326833084261258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_117
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 569
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26a7fe55ee18a00800000000000000
+      internalID: 757148265232360167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_118
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 560
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645019e9d5d0845e0800000000000000
+      internalID: -1925274144957463226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_119
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 562
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f75925956df81d0800000000000000
+      internalID: -3346220318987026633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_120
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 546
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dda41d7db695410800000000000000
+      internalID: 1466321728359292194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_121
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 560
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64c50822f0f8d80800000000000000
+      internalID: -8246355751835253044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 266
+        width: 242
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841c7788fddff1240800000000000000
+      internalID: 4764806067290358088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_132
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 266
+        width: 255
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fed6cb805e0f20800000000000000
+      internalID: 3390736130723738353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_133
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 266
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df44a41f09a70c50800000000000000
+      internalID: 6631454858562260951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_134
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 383
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b3e3ce619fb8c0800000000000000
+      internalID: -3981303640653318224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_135
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 251
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18baaf5c03ba27990800000000000000
+      internalID: -7389655812593243263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_136
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 260
+        width: 176
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c84820bdb5e260800000000000000
+      internalID: 7126310549671430612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_137
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 262
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd490957b952f30800000000000000
+      internalID: 4550213927766908792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_138
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 374
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da873d603ce4cd980800000000000000
+      internalID: -8512842596096968531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_139
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 266
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4beabd372337af0800000000000000
+      internalID: -399920468717554436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_140
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 365
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089100ef7e77a1090800000000000000
+      internalID: -8063000344570881664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_141
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 274
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb797f5d2e3991630800000000000000
+      internalID: 3898309554927540155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_142
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 331
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30baa4e7a967190800000000000000
+      internalID: -7965009023748865052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_143
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 356
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2724a1950898e930800000000000000
+      internalID: 4172752204444477226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_144
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 263
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110bd10060dc012f0800000000000000
+      internalID: -1004077291248177135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_145
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 334
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8743b0d8a24d270800000000000000
+      internalID: 8274285200653187234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_146
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 325
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dafb97333c38990800000000000000
+      internalID: -7384844338104128153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_147
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 318
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e988e8de6ccfd20800000000000000
+      internalID: 3313742149438709374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_148
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 312
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d891347a2c7df40800000000000000
+      internalID: 5753281072630172932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_149
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 303
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b137d7914e232380800000000000000
+      internalID: -8997296771300904525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_150
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a50aaac9a52230800000000000000
+      internalID: 3613480963935675487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_151
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 305
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818e72c9a6518f10800000000000000
+      internalID: 2270190974283972995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_152
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 301
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4cb0309efc50d0800000000000000
+      internalID: -3432588920716767903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_153
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 294
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e213e7dc7be13a00800000000000000
+      internalID: 734627135668556515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_154
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 294
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a6c5c821b38440800000000000000
+      internalID: 4936984405203134762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_155
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 266
+        width: 88
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e062a80df0055250800000000000000
+      internalID: 5932649170902081764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_156
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 266
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4eedb6bb294280800000000000000
+      internalID: -9058661111608489097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b01c0f6584e46d10800000000000000
+      internalID: 2118068986515820721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_158
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 29
+        width: 208
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff830a09b150740800000000000000
+      internalID: 5117526859553767399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_159
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 88
+        width: 169
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc38a337eed9e7290800000000000000
+      internalID: -7890695849645538353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_160
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 78
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d0093ec4e4edb30800000000000000
+      internalID: 4313971585209863457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_161
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 89
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5913b79bf4bf9dcb0800000000000000
+      internalID: -4838560004800040555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_162
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 86
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344bc381d11de7450800000000000000
+      internalID: 6088533669142377539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_163
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 73
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d334cb7a33649b0800000000000000
+      internalID: -5096329132812059313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_164
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 83
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add4f4fd8c66ea8e0800000000000000
+      internalID: -1680292598036607526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_165
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 83
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8064625744fd3f10800000000000000
+      internalID: 2251223975917281419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_166
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 83
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f834ec7f5101d0800000000000000
+      internalID: -3386320454796381162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_167
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 83
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe147c0f5de8170800000000000000
+      internalID: 8182712803090624502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_168
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 83
+        width: 159
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2a88440c1ae470800000000000000
+      internalID: 8424576857672396619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_169
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 81
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a1060714624ad0800000000000000
+      internalID: -2719501174930561592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_170
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 81
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cdffde413338380800000000000000
+      internalID: -8970269867806565356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_171
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 76
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ec08d00757abaa0800000000000000
+      internalID: -6144469617470288241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_172
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 50
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e38d7a3105e5c50800000000000000
+      internalID: 6655845344650739229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_173
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65142770aa7063e0800000000000000
+      internalID: -2062513799723477651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_174
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30939aedd0846e8d0800000000000000
+      internalID: -2817485292466259709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_175
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd6e39ff10c2200800000000000000
+      internalID: 156502284260793273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_176
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 36
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1e82d9fe4e28b0800000000000000
+      internalID: -5175112086915769633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_177
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e33b8355e96480800000000000000
+      internalID: -8905334641167964028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_178
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 51
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a79bc57c9bdbe800800000000000000
+      internalID: 642848836868085665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_heroes-of-might-and-magic-iii-super-nintendo-entertainment-system-sprite-dragon-video-game_179
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 54
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f58666c949b040800000000000000
+      internalID: 4663840005591266838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
